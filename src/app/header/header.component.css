@@ -1,3 +1,17 @@
-header{
-    padding: 30px 0;
+.navbar-brand{
+    font-size: 24px;
+    font-weight: 500;
+}
+.navbar{
+    padding: 2.5rem 1rem;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding-right: 3rem;
+    padding-left: 3rem;
+}
+.navbar-expand-lg .navbar-nav .btn{
+    color: #fff;
+    font-weight: 500;
+    border-radius: 30px;
+    padding: 10px 30px;
 }
